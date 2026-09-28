@@ -1,0 +1,7 @@
+# Ignore large model checkpoints
+*.pkl
+models/
+
+# Ignore raw datasets
+archive/
+*.csv

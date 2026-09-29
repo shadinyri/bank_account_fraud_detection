@@ -29,4 +29,4 @@ The Aggressive Strategy (FPR = 5%): Aligning with the BAF paper's evaluation met
 The Balanced Strategy (Optimal F1-Score): Optimizing purely for the F1-Score resulted in a stricter threshold of 0.1030. This constrained the False Positive Rate to a mere 1.57%, significantly reducing customer friction and call center load, while still maintaining a robust 33.25% Recall.
 
 ## ⚖️ License and Acknowledgements
-The BAF Dataset Suite utilized in this project is licensed under the Creative Commons CC BY-NC-ND 4.0 license. Credit to Feedzai and the Universidade do Porto for publishing this essential resource for algorithmic fairness and robust machine learning research.
+The BAF Dataset Suite utilized in this project is licensed under the Creative Commons CC BY-NC-SA 4.0 license. Credit to Feedzai and the Universidade do Porto for publishing this essential resource for algorithmic fairness and robust machine learning research.

@@ -109,7 +109,7 @@ Legitimate applicants aged 50 or older are flagged about 2.4 times as often as y
 | File | Description |
 |---|---|
 | `baf_predictive_modeling.ipynb` | Full pipeline: loading, split, EDA, baseline, tuning, thresholds, fairness |
-| `requirements.txt` | Python dependencies |
+| `requirements.txt` | pandas, numpy, scikit-learn, lightgbm, optuna, matplotlib, seaborn, joblib |
 | `README.md` | This file |
 
 The repository does not include the dataset.
